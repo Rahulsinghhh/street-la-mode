@@ -85,7 +85,7 @@ define('WP_DEBUG', false);
 /* Add any custom values between this line and the "stop editing" line. */
 
 
-define('WP_MEMORY_LIMIT', '256M');
+define('WP_MEMORY_LIMIT', '512M');
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
